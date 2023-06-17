@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/main/java/class1" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class2" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class3" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class4" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SDETbatch16" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SDETbatch16" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

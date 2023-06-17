@@ -1,0 +1,10 @@
+Maps:
+Map is a data structure that can store data in the for of key value pairs
+There are three main types of maps.
+Hashmap LinkedHashmap and TreeMap.
+
+Hashmap has really good performance however does not retain the order of the data. hashmap is not thread safe
+LinkedHashmap is a little slow but keeps the order of the data which is good
+Treemap is the slowest but it keeps data is sorted form which
+
+HashTable: is thread safe which means multiple cpu cores can access it

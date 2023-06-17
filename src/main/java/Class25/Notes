@@ -1,0 +1,19 @@
+
+
+Sets: Do not allow duplicate data
+they dont have get methods
+cant use normal for loop/while/dowhile loops
+
+Hash sets:
+are the fastest
+best with memory and speed
+
+linkedHashset
+upside:
+maintains insertion order
+downside:
+slower than hash set
+
+tree
+sorts
+is slowest of all

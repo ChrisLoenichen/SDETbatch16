@@ -1,0 +1,22 @@
+Three Main types of Maps:
+1)HashMap 2)TreeMap 3)LinkedHashMap
+
+Hashmap:
+-fastest,  best on memory and speed
+-it does not remember the order in which you insert the data
+
+LinkedHashMap:
+-not the best for memory or performance, but its only a little bit slower than hashmap
+-maintains the order of inserted data
+
+TreeMap:
+-it sorts the data based on keys. and alphabetical order?
+-very slower than both
+--------------------------------------------------------------------------------------------
+FildeHandling:
+-Reading/writing in data files.
+
+-What do we need to know before we can read the data from a file?
+>must have location/path of the file
+>Navigate to the location where the file is stored
+>Software that can help us read/write data from that file

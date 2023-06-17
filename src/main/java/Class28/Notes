@@ -1,0 +1,17 @@
+A exception in java is an event that occurs
+Types of error
+Compile time Errors:
+    A compile time error or syntax error, occurs when you write code that the compiler cant understand or is invalid.
+    this type of error is usually detected by the compiler before the code is executed, so  the code will not run until
+    the errors are fixed.
+Solution:
+    We can fix these types of issues by learning thee syntax of the language.
+    IntelliJ can also help us fix these types of issues
+
+Logical issues/ logical bugs:
+   logical issues are whenethe code runs without errors, but doesnt give you the expected result. it means there is a
+   problem. It means there is a problem with the underlying logic of the code
+Soulution:
+    Debugger
+
+Exceptions/Runtime Errors

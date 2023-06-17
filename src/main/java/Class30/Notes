@@ -1,0 +1,22 @@
+Mehtods:
+A method block of code that contains instructions which are executed
+when the method is called
+Why should we create methods?
+1)they allow us to reuse code.
+2)save time
+3)save memory
+4)code is more organized
+5)code changing becomes easier (only have to do it in one place)
+
+When should we create a method?
+if we are repeating more than 3 lines of code twice then we should create a method
+
+Syntax of a method:
+returnType methodName(){
+
+}
+
+example
+void printHello(){
+sout"Hello";
+}
